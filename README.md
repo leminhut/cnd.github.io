@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html>
 
+<html>
 <head>
     <title>Github to JSDelivr</title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport' />
@@ -168,7 +167,7 @@
                     </ul>
                 </div>
                 <div class="footer text-center">
-                    @ <span class="year"></span> by Hung1001
+                    @ <span class="year"></span> design5s.net
                 </div>
             </div>
         </div>
@@ -265,5 +264,4 @@
     })(document);
     </script>
 </body>
-
 </html>
